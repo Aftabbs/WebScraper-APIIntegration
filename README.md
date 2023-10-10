@@ -33,6 +33,12 @@ A web scraper class was implemented to extract data from the NASA Earth Data web
 - Segregating the data into fields such as source, author, title, description, etc.
 - Creating a DataFrame from the extracted data.
 - Saving the DataFrame to a CSV file.
+- 
+### Snippets 
+![image](https://github.com/Aftabbs/WebScraper-APIIntegration/assets/112916888/2bae5ba1-2183-443c-83f7-4d9d004b219d)
+
+![image](https://github.com/Aftabbs/WebScraper-APIIntegration/assets/112916888/d74b7865-e24d-4945-9b8a-cbeecef00cc8)
+
 
 ## Usage
 
